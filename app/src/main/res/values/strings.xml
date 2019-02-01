@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ActivitySwap</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item >Fortnite</item>
+        <item>PUBG</item>
+        <item>League Of Legends</item>
+        <item>The Witcher</item>
+        <item>Battlefield</item>
+        <item>Minecraft</item>
+    </string-array>
+    <string-array name="images">
+        <item>fortnite</item>
+        <item>pubg</item>
+        <item>leagueoflegends</item>
+        <item>witcher</item>
+        <item>battlefield</item>
+        <item>minecraft</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Fortnite est un jeu en ligne developpe par Epic Games qui a ete publie sous la forme de differents progiciels proposant differents modes de jeu qui partagent le même gameplay general et le même moteur de jeu.</item>
+        <item>PlayerUnknown\'s Battlegrounds (PUBG) est un jeu video multijoueur en ligne de type battle royale developpe et edite par PUBG Corporation, une filiale de l\'editeur Bluehole.</item>
+        <item>League of Legends (abrege LoL), anciennement nomme League of Legends: Clash of Fates est un jeu video de type arène de bataille en ligne (MOBA) gratuit developpe et edite par Riot Games sur Windows et Mac OS X.</item>
+        <item>The Witcher est un jeu video de type action-RPG developpe par CD Projekt, studio polonais, et edite par Atari, adaptation des romans d\'Andrzej Sapkowski.</item>
+        <item>Battlefield (de l\'anglais, signifiant litteralement « Champ de bataille ») est une serie de jeux video de tir a la première personne developpee par Digital Illusions CE et editee par Electronic Arts, qui a debute par le jeu Battlefield 1942 en 2002.</item>
+        <item>Minecraft est un jeu video de type « bac a sable » (construction complètement libre - sandbox en anglais) developpe par le Suedois Markus Persson, alias Notch, puis par le studio de developpement Mojang.</item>
+    </string-array>
+</resources>
